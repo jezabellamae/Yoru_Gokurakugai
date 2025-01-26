@@ -1,6 +1,3 @@
 # yoru_gokurakugai
 
- <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/user-https://rentry.co/ulzzangdividers]">
- <source media="(prefers-color-scheme: light)" srcset="[https://github.com/user-https://rentry.co/lesbiian-dividers]">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/user-https://rentry.co/ulzzangdividers">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/user-https://rentry.co/lesbiian-dividers">
+![Image](https://github.com/user-attachments/assets/faf51c06-74a0-46e8-be65-7fdf8b5dabf4)
